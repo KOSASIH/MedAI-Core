@@ -64,6 +64,16 @@
 [![American Diabetes Association (ADA)](https://img.shields.io/badge/ADA-American%20Diabetes%20Association-blue.svg)](https://www.diabetes.org/)
 [![American Lung Association (ALA)](https://img.shields.io/badge/ALA-American%20Lung%20Association-blue.svg)](https://www.lung.org/)
 [![American Stroke Association (ASA)](https://img.shields.io/badge/ASA-American%20Stroke%20Association-red.svg)](https://www.stroke.org/)
+[![American Academy of Pediatrics (AAP)](https://img.shields.io/badge/AAP-American%20Academy%20of%20Pediatrics-blue.svg)](https://www.aap.org/)
+[![American College of Surgeons (ACS)](https://img.shields.io/badge/ACS-American%20College%20of%20Surgeons-blue.svg)](https://www.facs.org/)
+[![American Academy of Family Physicians (AAFP)](https://img.shields.io/badge/AAFP-American%20Academy%20of%20Family%20Physicians-blue.svg)](https://www.aafp.org/)
+[![American College of Cardiology (ACC)](https://img.shields.io/badge/ACC-American%20College%20of%20Cardiology-blue.svg)](https://www.acc.org/)
+[![American Psychiatric Association (APA)](https://img.shields.io/badge/APA-American%20Psychiatric%20Association-blue.svg)](https://www.psychiatry.org/)
+[![American Academy of Neurology (AAN)](https://img.shields.io/badge/AAN-American%20Academy%20of%20Neurology-blue.svg)](https://www.aan.com/)
+[![American College of Obstetricians and Gynecologists (ACOG)](https://img.shields.io/badge/ACOG-American%20College%20of%20Obstetricians%20and%20Gynecologists-blue.svg)](https://www.acog.org/)
+[![American Society of Anesthesiologists (ASA)](https://img.shields.io/badge/ASA-American%20Society%20of%20Anesthesiologists-blue.svg)](https://www.asahq.org/)
+[![American Academy of Dermatology (AAD)](https://img.shields.io/badge/AAD-American%20Academy%20of%20Dermatology-blue.svg)](https://www.aad.org/)
+[![American College of Rheumatology (ACR)](https://img.shields.io/badge/ACR-American%20College%20of%20Rheumatology-blue.svg)](https://www.rheumatology.org/)
 
 # MedAI-Core
 MedAI-Core is the foundational repository for the MedAI project, an AI-driven personalized health management system. This repository contains the core algorithms, data models, and essential components that power real-time health monitoring, predictive analytics, and intelligent virtual assistance. Designed for scalability and flexibility, MedAI-Core serves as the backbone for developing innovative healthcare solutions that empower patients and healthcare providers alike. Join us in revolutionizing healthcare through cutting-edge technology and data-driven insights.
