@@ -59,6 +59,12 @@
 [![World Federation of Neurology (WFN)](https://img.shields.io/badge/WFN-Certified-blue.svg)](https://www.wfneurology.org/)
 [![International Society for the Study of Pain (IASP)](https://img.shields.io/badge/IASP-Certified-blue.svg)](https://www.iasp-pain.org/)
 
+[![American Heart Association (AHA)](https://img.shields.io/badge/AHA-American%20Heart%20Association-red.svg)](https://www.heart.org/)
+[![American Cancer Society (ACS)](https://img.shields.io/badge/ACS-American%20Cancer%20Society-blue.svg)](https://www.cancer.org/)
+[![American Diabetes Association (ADA)](https://img.shields.io/badge/ADA-American%20Diabetes%20Association-blue.svg)](https://www.diabetes.org/)
+[![American Lung Association (ALA)](https://img.shields.io/badge/ALA-American%20Lung%20Association-blue.svg)](https://www.lung.org/)
+[![American Stroke Association (ASA)](https://img.shields.io/badge/ASA-American%20Stroke%20Association-red.svg)](https://www.stroke.org/)
+
 # MedAI-Core
 MedAI-Core is the foundational repository for the MedAI project, an AI-driven personalized health management system. This repository contains the core algorithms, data models, and essential components that power real-time health monitoring, predictive analytics, and intelligent virtual assistance. Designed for scalability and flexibility, MedAI-Core serves as the backbone for developing innovative healthcare solutions that empower patients and healthcare providers alike. Join us in revolutionizing healthcare through cutting-edge technology and data-driven insights.
 
