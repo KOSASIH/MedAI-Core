@@ -3,6 +3,12 @@
 [![General Medical Council (GMC)](https://img.shields.io/badge/GMC-Certified-<COLOR>.svg)](https://github.com/MedAI-Core/GMC-Registration)
 [![Royal College of Physicians and Surgeons of Canada (RCPSC)](https://img.shields.io/badge/RCPSC-Certified-<COLOR>.svg)](https://github.com/MedAI-Core/RCPSC-Certification)
 [![Australian Medical Council (AMC)](https://img.shields.io/badge/AMC-Certified-<COLOR>.svg)](https://github.com/MedAI-Core/AMC-Certification)
+[![American Medical Association (AMA)](https://img.shields.io/badge/AMA-Certified-<COLOR>.svg)](https://github.com/MedAI-Core/AMA-Certification)
+[![World Health Organization (WHO)](https://img.shields.io/badge/WHO-Certified-<COLOR>.svg)](https://github.com/MedAI-Core/WHO-Certification)
+[![European Union of Medical Specialists (UEMS)](https://img.shields.io/badge/UEMS-Certified-<COLOR>.svg)](https://github.com/MedAI-Core/UEMS-Certification)
+[![International Medical Council (IMC)](https://img.shields.io/badge/IMC-Certified-<COLOR>.svg)](https://github.com/MedAI-Core/IMC-Certification)
+[![Canadian Medical Association (CMA)](https://img.shields.io/badge/CMA-Certified-<COLOR>.svg)](https://github.com/MedAI-Core/CMA-Certification)
+
 # MedAI-Core
 MedAI-Core is the foundational repository for the MedAI project, an AI-driven personalized health management system. This repository contains the core algorithms, data models, and essential components that power real-time health monitoring, predictive analytics, and intelligent virtual assistance. Designed for scalability and flexibility, MedAI-Core serves as the backbone for developing innovative healthcare solutions that empower patients and healthcare providers alike. Join us in revolutionizing healthcare through cutting-edge technology and data-driven insights.
 
