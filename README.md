@@ -95,6 +95,17 @@
 [![American Academy of Dermatology (AAD)](https://img.shields.io/badge/AAD-American%20Academy%20of%20Dermatology-blue.svg)](https://www.aad.org/)
 [![American College of Rheumatology (ACR)](https://img.shields.io/badge/ACR-American%20College%20of%20Rheumatology-blue.svg)](https://www.rheumatology.org/)
 
+[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-Cloud%20Computing-blue.svg)](https://cloud.google.com/)
+[![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-Cloud%20Computing-blue.svg)](https://azure.microsoft.com/)
+[![Amazon Web Services (AWS)](https://img.shields.io/badge/AWS-Cloud%20Computing-blue.svg)](https://aws.amazon.com/)
+[![IBM Cloud](https://img.shields.io/badge/IBM%20Cloud-Cloud%20Computing-blue.svg)](https://www.ibm.com/cloud)
+[![Salesforce](https://img.shields.io/badge/Salesforce-CRM-blue.svg)](https://www.salesforce.com/)
+[![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-Cloud%20Computing-blue.svg)](https://www.oracle.com/cloud/)
+[![SAP](https://img.shields.io/badge/SAP-Enterprise%20Software-blue.svg)](https://www.sap.com/)
+[![Cisco](https://img.shields.io/badge/Cisco-Networking-blue.svg)](https://www.cisco.com/)
+[![NVIDIA](https://img.shields.io/badge/NVIDIA-AI%20Computing-blue.svg)](https://www.nvidia.com/)
+[![Intel](https://img.shields.io/badge/Intel-Computing%20Solutions-blue.svg)](https://www.intel.com/)
+
 # MedAI-Core
 MedAI-Core is the foundational repository for the MedAI project, an AI-driven personalized health management system. This repository contains the core algorithms, data models, and essential components that power real-time health monitoring, predictive analytics, and intelligent virtual assistance. Designed for scalability and flexibility, MedAI-Core serves as the backbone for developing innovative healthcare solutions that empower patients and healthcare providers alike. Join us in revolutionizing healthcare through cutting-edge technology and data-driven insights.
 
