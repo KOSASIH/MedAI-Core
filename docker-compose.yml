@@ -1,0 +1,28 @@
+# docker-compose.yml
+
+version: '3.8'
+
+services:
+  medai-core:
+    build: .
+    ports:
+      - "5000:5000"
+    environment:
+      - FLASK_ENV=development
+    volumes:
+      - .:/app
+    depends_on:
+      - db  # If you have a database service, specify it here
+
+  # Example database service (optional)
+  db:
+    image: postgres:latest
+    environment:
+      POSTGRES_USER: user
+      POSTGRES_PASSWORD: password
+      POSTGRES_DB: medai_db
+    volumes:
+      - db_data:/var/lib/postgresql/data
+
+volumes:
+  db_data:
