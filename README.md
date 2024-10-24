@@ -38,6 +38,16 @@
 [![International Society for Pediatric and Adolescent Diabetes (ISPAD)](https://img.shields.io/badge/ISPAD-Certified-blue.svg)](https://www.ispad.org/)
 [![International Society for Neurovascular Disease (ISNVD)](https://img.shields.io/badge/ISNVD-Certified-blue.svg)](https://www.isnvd.org/)
 [![World Federation of Chiropractic (WFC)](https://img.shields.io/badge/WFC-Certified-blue.svg)](https://www.wfc.org/)
+[![American Association of Nurse Practitioners (AANP)](https://img.shields.io/badge/AANP-Certified-blue.svg)](https://www.aanp.org/)
+[![World Health Organization (WHO)](https://img.shields.io/badge/WHO-Certified-blue.svg)](https://www.who.int/)
+[![International Federation of Medical Students' Associations (IFMSA)](https://img.shields.io/badge/IFMSA-Certified-blue.svg)](https://www.ifmsa.org/)
+[![International Society for Infectious Diseases (ISID)](https://img.shields.io/badge/ISID-Certified-blue.svg)](https://www.isid.org/)
+[![European Respiratory Society (ERS)](https://img.shields.io/badge/ERS-Certified-blue.svg)](https://www.ersnet.org/)
+[![International Society for the Study of Women's Sexual Health (ISSWSH)](https://img.shields.io/badge/ISSWSH-Certified-blue.svg)](https://www.isswsh.org/)
+[![World Federation of Public Health Associations (WFPHA)](https://img.shields.io/badge/WFPHA-Certified-blue.svg)](https://www.wfpha.org/)
+[![International Society for the Study of Trauma and Shock (ISSTS)](https://img.shields.io/badge/ISSTS-Certified-blue.svg)](https://www.isssts.org/)
+[![International Society for the Advancement of Spine Surgery (ISASS)](https://img.shields.io/badge/ISASS-Certified-blue.svg)](https://www.isass.org/)
+[![World Federation of Societies of Anaesthesiologists (WFSA)](https://img.shields.io/badge/WFSA-Certified-blue.svg)](https://wfsahq.org/)
 
 # MedAI-Core
 MedAI-Core is the foundational repository for the MedAI project, an AI-driven personalized health management system. This repository contains the core algorithms, data models, and essential components that power real-time health monitoring, predictive analytics, and intelligent virtual assistance. Designed for scalability and flexibility, MedAI-Core serves as the backbone for developing innovative healthcare solutions that empower patients and healthcare providers alike. Join us in revolutionizing healthcare through cutting-edge technology and data-driven insights.
