@@ -3,6 +3,12 @@
 [![International Council of Nurses (ICN)](https://img.shields.io/badge/ICN-Certified-blue.svg)](https://www.icn.ch/)
 [![International Federation of Medical Students' Associations (IFMSA)](https://img.shields.io/badge/IFMSA-Certified-blue.svg)](https://ifmsa.org/)
 [![World Federation of Medical Education (WFME)](https://img.shields.io/badge/WFME-Certified-blue.svg)](https://wfme.org/)
+[![International Committee of the Red Cross (ICRC)](https://img.shields.io/badge/ICRC-Certified-green.svg)](https://www.icrc.org/)
+[![International Federation of Pharmaceutical Manufacturers & Associations (IFPMA)](https://img.shields.io/badge/IFPMA-Certified-green.svg)](https://www.ifpma.org/)
+[![World Self-Medication Industry (WSMI)](https://img.shields.io/badge/WSMI-Certified-green.svg)](https://www.wsmi.org/)
+[![International Association for Dental Research (IADR)](https://img.shields.io/badge/IADR-Certified-green.svg)](https://www.iadr.org/)
+[![Fédération Internationale des Associations de Médecins Catholiques (FIAMC)](https://img.shields.io/badge/FIAMC-Certified-green.svg)](https://www.fiamc.org/)
+
 # MedAI-Core
 MedAI-Core is the foundational repository for the MedAI project, an AI-driven personalized health management system. This repository contains the core algorithms, data models, and essential components that power real-time health monitoring, predictive analytics, and intelligent virtual assistance. Designed for scalability and flexibility, MedAI-Core serves as the backbone for developing innovative healthcare solutions that empower patients and healthcare providers alike. Join us in revolutionizing healthcare through cutting-edge technology and data-driven insights.
 
