@@ -48,6 +48,16 @@
 [![International Society for the Study of Trauma and Shock (ISSTS)](https://img.shields.io/badge/ISSTS-Certified-blue.svg)](https://www.isssts.org/)
 [![International Society for the Advancement of Spine Surgery (ISASS)](https://img.shields.io/badge/ISASS-Certified-blue.svg)](https://www.isass.org/)
 [![World Federation of Societies of Anaesthesiologists (WFSA)](https://img.shields.io/badge/WFSA-Certified-blue.svg)](https://wfsahq.org/)
+[![American College of Obstetricians and Gynecologists (ACOG)](https://img.shields.io/badge/ACOG-Certified-blue.svg)](https://www.acog.org/)
+[![American Academy of Orthopaedic Surgeons (AAOS)](https://img.shields.io/badge/AAOS-Certified-blue.svg)](https://www.aaos.org/)
+[![European Society of Cardiology (ESC)](https://img.shields.io/badge/ESC-Certified-blue.svg)](https://www.escardio.org/)
+[![International Society for Heart Research (ISHR)](https://img.shields.io/badge/ISHR-Certified-blue.svg)](https://www.ishr.org/)
+[![Society of Critical Care Medicine (SCCM)](https://img.shields.io/badge/SCCM-Certified-blue.svg)](https://www.sccm.org/)
+[![American Society of Clinical Oncology (ASCO)](https://img.shields.io/badge/ASCO-Certified-blue.svg)](https://www.asco.org/)
+[![American College of Emergency Physicians (ACEP)](https://img.shields.io/badge/ACEP-Certified-blue.svg)](https://www.acep.org/)
+[![International Society for Pediatric Neurosurgery (ISPN)](https://img.shields.io/badge/ISPN-Certified-blue.svg)](https://www.ispn.guide/)
+[![World Federation of Neurology (WFN)](https://img.shields.io/badge/WFN-Certified-blue.svg)](https://www.wfneurology.org/)
+[![International Society for the Study of Pain (IASP)](https://img.shields.io/badge/IASP-Certified-blue.svg)](https://www.iasp-pain.org/)
 
 # MedAI-Core
 MedAI-Core is the foundational repository for the MedAI project, an AI-driven personalized health management system. This repository contains the core algorithms, data models, and essential components that power real-time health monitoring, predictive analytics, and intelligent virtual assistance. Designed for scalability and flexibility, MedAI-Core serves as the backbone for developing innovative healthcare solutions that empower patients and healthcare providers alike. Join us in revolutionizing healthcare through cutting-edge technology and data-driven insights.
